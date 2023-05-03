@@ -1,4 +1,4 @@
-from _utils import discover
+from spyq._utils import discover
 
 __all__ = ['discover']
 
